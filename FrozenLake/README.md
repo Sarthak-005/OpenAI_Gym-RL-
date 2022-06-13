@@ -1,5 +1,4 @@
 # Frozen Lake
-Link : https://www.gymlibrary.ml/environments/toy_text/frozen_lake/?highlight=frozen%20lake
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/58303643/173411638-d7db0149-0e2e-445c-94bd-6ebf334dc975.gif">
 </p>
