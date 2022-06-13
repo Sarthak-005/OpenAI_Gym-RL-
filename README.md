@@ -1,2 +1,3 @@
-# OpenAI_Gym-RL-
-OpenAI Gym for Reinforcement Learning
+# OpenAI_Gym
+
+Here, I practice Reinforcement Learning by making use of different environments provided by the the openAI gym. 
