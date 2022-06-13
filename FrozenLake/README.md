@@ -1,7 +1,13 @@
 # Frozen Lake
 Link : https://www.gymlibrary.ml/environments/toy_text/frozen_lake/?highlight=frozen%20lake
-![frozen_lake](https://user-images.githubusercontent.com/58303643/173411638-d7db0149-0e2e-445c-94bd-6ebf334dc975.gif)
-![image](https://user-images.githubusercontent.com/58303643/173411744-2476d6c8-c2a0-407c-a4fc-75628fe14c3a.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/58303643/173411638-d7db0149-0e2e-445c-94bd-6ebf334dc975.gif">
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/58303643/173411744-2476d6c8-c2a0-407c-a4fc-75628fe14c3a.png">
+</p>
+
+
 
 Frozen lake involves crossing a frozen lake from Start(S) to Goal(G) without falling into any Holes(H) by walking over the Frozen(F) lake. The agent may not always move in the intended direction due to the slippery nature of the frozen lake.
 
